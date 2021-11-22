@@ -1,0 +1,44 @@
+100 IDis Availables.
+,10000.0 Price is correct.
+ Now your Total Price is50000.0
+ if you interest then click Book.
+If you are not then click Exit
+105 IDis Availables.
+,8000.0 Price is correct.
+ Now your Total Price is40000.0
+ if you interest then click Book.
+If you are not then click Exit
+100 IDis Availables.
+,9000.0 Price is correct.
+ Now your Total Price is27000.0
+ if you interest then click Book.
+If you are not then click Exit
+101 IDis Availables.
+,8000.0 Price is correct.
+ Now your Total Price is72000.0
+ if you interest then click Book.
+If you are not then click Exit
+Info105 IDis Availables.
+,8000.0 Price is correct.
+ Now your Total Price is16000.0
+ if you interest then click Book.
+If you are not then click Exit  
+Info SORRY
+You Enter the worng information  
+Info101 IDis Availables.
+,9000.0 Price is correct.
+ Now your Total Price is27000.0
+ if you interest then click Book.
+If you are not then click Exit  
+InfoSORRY
+You Enter the worng information  
+Info100 IDis Availables.
+,9000.0 Price is correct.
+ Now your Total Price is36000.0
+ if you interest then click Book.
+If you are not then click Exit  Info SORRY
+You Enter the worng information  Info 105 IDis Availables.
+,9000.0 Price is correct.
+ Now your Total Price is90000.0
+ if you interest then click Book.
+If you are not then click Exit  
